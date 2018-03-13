@@ -1,0 +1,19 @@
+{
+  "name": "@neilha/node-add-module",
+  "version": "0.1.0",
+  "description": "Example node.js module, travis-ci, npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilha/node-add-module.git"
+  },
+  "author": "neilha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neilha/node-add-module/issues"
+  },
+  "homepage": "https://github.com/neilha/node-add-module#readme"
+}
