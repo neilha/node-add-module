@@ -1,6 +1,6 @@
 {
   "name": "@neilha/node-add-module",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Example node.js module, travis-ci, npm",
   "main": "index.js",
   "repository": {
